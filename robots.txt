@@ -1,0 +1,6 @@
+User-agent: *
+Dissallow:/blog.html
+Dissallow:/portfolio.html
+Dissallow:/services.html
+Dissallow:/mailsend.php
+Sitemap:http://seguridadycitofonos.com/sitemap.xml
